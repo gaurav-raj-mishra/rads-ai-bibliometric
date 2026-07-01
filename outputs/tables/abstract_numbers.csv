@@ -1,0 +1,18 @@
+quantity,value
+"Total records (Scopus, primary)",40828
+"Total records (OpenAlex, validation)",19400
+Year span,2015-2025
+"CAGR (%/yr, Scopus)",63.6
+Top-1 country,China (32.2%)
+Top-2 country,United States (15.2%)
+Top-3 country,India (6.1%)
+"Top-5 concentration share (%, Scopus)",63.0
+HHI (Scopus),0.1410
+HHI (OpenAlex),0.0966
+"South Asia share (%, Scopus)",7.13
+"South Asia share (%, OpenAlex)",12.14
+Spearman rho (cross-DB country shares),0.844
+Country-field used (Scopus),"corresponding-author (AU1_CO, coverage 95.2%)"
+Country-field used (OpenAlex),"corresponding-author (AU1_CO, coverage 87.1%)"
+Dominant thematic clusters,deep learning; machine learning; radiomics; breast cancer
+OpenAlex pull date,2026-06-30

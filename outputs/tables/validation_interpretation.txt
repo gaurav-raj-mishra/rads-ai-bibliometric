@@ -1,0 +1,1 @@
+Spearman rho = 0.844 across 136 countries. HHI Scopus = 0.141 vs OpenAlex = 0.097. High rho + similar HHI => the concentration pattern is robust across databases. OpenAlex South Asia share (12.14%) vs Scopus (7.13%): the higher OpenAlex share quantifies Scopus coverage bias against the region.

@@ -1,0 +1,36 @@
+# --- Claude Code local tooling config ---
+.claude/
+
+# --- R session cruft ---
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# --- renv: keep lockfile + activate, ignore the package library ---
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+renv/python/
+renv/sandbox/
+
+# --- Proprietary / non-redistributable inputs ---
+# Scopus exports may not be redistributed publicly (Elsevier licence).
+# See data/raw/README.md for how to regenerate them.
+data/raw/scopus_*.csv
+
+# --- Large, regenerable data artifacts ---
+data/raw/openalex_raw.rds
+data/raw/oa_chunks/
+data/raw/*.bak
+data/processed/*.rds
+
+# --- Unpublished manuscript / logs / scratch ---
+outputs/abstract_draft.md
+resume_log.txt
+data/processed/_*.txt
+
+# --- Stale files from a prior, unrelated project ---
+TB CXR South Asia bibliometrics.Rproj
+main.R
