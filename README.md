@@ -6,8 +6,6 @@ high-income countries, with a measurable South Asia / LMIC production gap. Headl
 are concentration statistics and a South Asia research-output share, **cross-validated across
 two databases** (Scopus + OpenAlex).
 
-Target: RRF 2026 conference abstract (deadline 1 July 2026).
-
 ---
 
 ## Data sources
